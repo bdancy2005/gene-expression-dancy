@@ -1,8 +1,8 @@
 # GTEx Gene Expression Analysis
 
-This is the final project for STT 303. We analyzed gene expression in heart and brain tissue using GTEx data.
+This is the final project for STT 303. I analyzed gene expression in heart and brain tissue using GTEx data.
 
-## 📁 Files in This Repo
+## 📁 Files
 
 - 📝 **Report**: `Heart and Gene Analysis Report [Dancy].pdf`
 - 📊 **Slides**: `Heart and Gene Analysis [Dancy].pdf`
@@ -13,7 +13,7 @@ This is the final project for STT 303. We analyzed gene expression in heart and 
 
 - **Goal**: Compare gene expression in heart vs. brain tissue
 - **Tools Used**: R, tidyverse
-- **Data**: GTEx v8 (GCT format)
+- **Data**: GTEx v10 (GCT format)
 
 ## 📄 Reproduce the Analysis
 
